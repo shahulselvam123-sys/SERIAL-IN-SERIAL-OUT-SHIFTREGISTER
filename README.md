@@ -43,3 +43,5 @@ RegisterNumber:25017543
 <img width="1920" height="1080" alt="Screenshot 2025-12-10 110622" src="https://github.com/user-attachments/assets/4b2bc305-f45b-40bc-bd57-f90f00604fc4" />
 
 **RESULTS**
+THUS,To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
+
